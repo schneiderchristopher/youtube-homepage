@@ -9,7 +9,7 @@ This is a Youtube homepage mock using [T3 Stack](https://create.t3.gg/).
 
 ## How do I run this this?
 
-You will need Nodejs and npm above or atleast 10.5.0 
+You will need [Node.js](https://nodejs.org/en) and npm above or atleast 10.5.0 
 Clone the repo and run the commands in the terminal in the same directory
 ```
 npm install
